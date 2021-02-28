@@ -10,7 +10,7 @@ svgboard '5rk1/pp4pp/4p3/2R3Q1/3n4/6qr/P1P2PPP/5RK1 w - - 2 24' > goldcoin.svg
 ``` 
 generates the board
 
-[](goldcoin.svg)
+![](goldcoin.svg)
 
 The board can be configured to the user's tastes using a number of command-line
 options and flags:
