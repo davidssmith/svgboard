@@ -30,3 +30,4 @@ Usage: svgboard [-cghir] [-p <pieces>] FEN
 	-s 		 square size (default: 64)
 ```
 
+To run the program, download or clone the git repo and run `make` in the repo directory. This will create the binary `svgboard` which can be either run locally with `./svgboard` or copied to somewhere in your shell's path.
